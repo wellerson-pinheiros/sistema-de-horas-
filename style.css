@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(13, 16, 19);
+    font:normal  15pt arial;
+    color: aliceblue;
+    text-align: center;
+}
+section{
+border-radius: 10px;
+background-color: aliceblue;
+padding: 10px;
+box-shadow: 5 5 10px;
+
+}
