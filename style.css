@@ -1,13 +1,21 @@
 body{
-    background-color: rgb(13, 16, 19);
+    background-color: rgb(165, 203, 241);
     font:normal  15pt arial;
-    color: aliceblue;
+    color: black;
     text-align: center;
+    
 }
 section{
 border-radius: 10px;
-background-color: aliceblue;
-padding: 10px;
-box-shadow: 5 5 10px;
+background-color: white;
+padding: 15px;
+box-shadow: 5px 5px 10px;
+color:black;
+width: 400px;
+margin: auto;
 
+
+}
+img{
+    border-radius:50cap;
 }
