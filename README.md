@@ -1,2 +1,2 @@
 # sistema de horas 
- sistema que mudar conforme a hora do dia
+ sistema que muda conforme a hora do dia
