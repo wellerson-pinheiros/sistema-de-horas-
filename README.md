@@ -1,4 +1,4 @@
-# HALLOW 🤝
+# HELLOW 🤝
 
 
 # sistema de horas # ⏲️
